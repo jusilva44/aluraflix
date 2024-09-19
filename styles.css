@@ -31,10 +31,11 @@ h1{
 p{
     font-size: 20px;
 }
-.chamada {
-  background: rgb(184, 156, 213);
-  padding-bottom: 80px;
-  padding-top: 80px;
+img {
+  height: 200px;
+}
+.categoria-videos {
   display: flex;
-  justify-content: center;
+  overflow-x: auto;
+  gap: 10px;
 }
